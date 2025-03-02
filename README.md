@@ -63,7 +63,7 @@
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/mrfeixiang)
+Made with ❤️ by [mimixicool](https://github.com/mrfeixiang)
 
 # 在GitHub Pages上设置姑苏爱情故事
 
