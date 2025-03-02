@@ -2,7 +2,7 @@
 
 这是一个以立达中学为背景的互动故事游戏。玩家将通过选择不同的选项，与角色 Sue 互动，探索友情、学术合作或感情线索，逐步解锁多样的剧情分支和结局。游戏设计了丰富的分支剧情、特殊事件以及成就系统，带来沉浸式的体验。
 
-[立即游玩 Gusu Love Story](https://mrfeixiang.github.io/gusulovestory/) 👈 *游戏链接*
+[立即游玩 Gusu Love Story](https://mrfeixiang.github.io/gusulove/) 👈 *游戏链接*
 
 ## 游戏特性
 
@@ -30,7 +30,7 @@
 
 1. 克隆此仓库
    ```
-   git clone https://github.com/yourusername/lidalove.git
+   git clone https://github.com/mrfeixiang/gusulove.git
    ```
 
 2. 打开 `index.html` 文件即可开始游戏
@@ -63,7 +63,7 @@
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Your Name](https://github.com/mrfeixiang)
 
 # 在GitHub Pages上设置姑苏爱情故事
 
